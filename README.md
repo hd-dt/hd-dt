@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hd-dt
 - 👀 I’m interested in exploring the world through the immense of available data flows 
-- 🌱 I’m currently learning machine learning, data science and software architecture
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning machine learning, data science (mainly using Python) and software architecture
+- 💞️ I’m looking to collaborate on data analysis projects, data visualization and advanced modelling to support business decision making.
 - 📫 How to reach me: hoadang.doanthien@gmail.com
 
 <!---
